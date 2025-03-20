@@ -1,6 +1,8 @@
-# Claude Desktop MCP Server
+# Claude Desktop Notion MCP Server
 
 A filesystem Model Context Protocol (MCP) server implementation for Claude Desktop. This server provides filesystem capabilities to Claude, allowing it to read, write, and manipulate files on your system.
+
+![image](https://github.com/user-attachments/assets/9da432b5-bac1-4cd1-bbe6-01aded533638)
 
 ## Features
 
